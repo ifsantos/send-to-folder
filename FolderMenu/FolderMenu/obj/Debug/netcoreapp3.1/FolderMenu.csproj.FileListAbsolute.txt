@@ -1,0 +1,15 @@
+C:\code_home\github\folder-menu\FolderMenu\FolderMenu\bin\Debug\netcoreapp3.1\FolderMenu.exe
+C:\code_home\github\folder-menu\FolderMenu\FolderMenu\bin\Debug\netcoreapp3.1\FolderMenu.deps.json
+C:\code_home\github\folder-menu\FolderMenu\FolderMenu\bin\Debug\netcoreapp3.1\FolderMenu.runtimeconfig.json
+C:\code_home\github\folder-menu\FolderMenu\FolderMenu\bin\Debug\netcoreapp3.1\FolderMenu.runtimeconfig.dev.json
+C:\code_home\github\folder-menu\FolderMenu\FolderMenu\bin\Debug\netcoreapp3.1\FolderMenu.dll
+C:\code_home\github\folder-menu\FolderMenu\FolderMenu\bin\Debug\netcoreapp3.1\FolderMenu.pdb
+C:\code_home\github\folder-menu\FolderMenu\FolderMenu\obj\Debug\netcoreapp3.1\FolderMenu.csprojAssemblyReference.cache
+C:\code_home\github\folder-menu\FolderMenu\FolderMenu\obj\Debug\netcoreapp3.1\FolderMenu.Form1.resources
+C:\code_home\github\folder-menu\FolderMenu\FolderMenu\obj\Debug\netcoreapp3.1\FolderMenu.csproj.GenerateResource.cache
+C:\code_home\github\folder-menu\FolderMenu\FolderMenu\obj\Debug\netcoreapp3.1\FolderMenu.AssemblyInfoInputs.cache
+C:\code_home\github\folder-menu\FolderMenu\FolderMenu\obj\Debug\netcoreapp3.1\FolderMenu.AssemblyInfo.cs
+C:\code_home\github\folder-menu\FolderMenu\FolderMenu\obj\Debug\netcoreapp3.1\FolderMenu.csproj.CoreCompileInputs.cache
+C:\code_home\github\folder-menu\FolderMenu\FolderMenu\obj\Debug\netcoreapp3.1\FolderMenu.dll
+C:\code_home\github\folder-menu\FolderMenu\FolderMenu\obj\Debug\netcoreapp3.1\FolderMenu.pdb
+C:\code_home\github\folder-menu\FolderMenu\FolderMenu\obj\Debug\netcoreapp3.1\FolderMenu.genruntimeconfig.cache
