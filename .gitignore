@@ -1,6 +1,5 @@
-FolderMenu/FolderMenu/bin
-FolderMenu/FolderMenu/bin/*
-FolderMenu/FolderMenu/obj
+/bin
+/obj
 *.vs
 *.zip
 /*/*.exe
