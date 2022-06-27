@@ -1,8 +1,8 @@
 FolderMenu/FolderMenu/bin
 FolderMenu/FolderMenu/bin/*
 FolderMenu/FolderMenu/obj
-.vs
-.zip
+*.vs
+*.zip
 /*/*.exe
 /*/*.dll
 *.exe
