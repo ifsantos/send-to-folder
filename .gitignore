@@ -1,6 +1,6 @@
 FolderMenu/FolderMenu/bin
 FolderMenu/FolderMenu/bin/*
-FolderMenu/FolderMenu/bin/Debug/*
+FolderMenu/FolderMenu/obj
 
 /*/*.exe
 /*/*.dll
