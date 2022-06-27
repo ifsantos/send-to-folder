@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "FolderMenu": {
-      "commandName": "Project",
-      "commandLineArgs": "\"C:\\param\\ze graca - piada 1.mp3\" \"C:\\param\\ze graca - piada 2.mp3\" \"C:\\param\\ze graca - piada 3.mp3\""
-    }
-  }
-}
